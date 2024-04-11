@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there <img src="https://gifdb.com/images/high/waving-hand-black-and-white-erox5pacbap4ac1l.gif" width="30px">,
+### I am Pedro Moretti!
+![GitHub followers](https://img.shields.io/github/followers/Pedro-Moretti) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/moretti_alves?style=social)
+
+
+
 
 <!--
 **Pedro-Moretti/Pedro-Moretti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
